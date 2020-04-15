@@ -4,13 +4,16 @@ using System.Text;
 
 namespace rspls
 {
-    class Player
+    abstract class Player
     {
-        protected string name;
+        public int score;
+        public string name;
 
         public Player()
         {
 
         }
+
+        public abstract string GetChoice();
     }
 }
