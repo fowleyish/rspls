@@ -16,7 +16,8 @@ namespace rspls
         public override string GetChoice()
         {
             Random rand = new Random();
-            return rand.Next(1, 5).ToString();
+            int choice = rand.Next(1, 5);
+            return Gestures[choice];
         }
     }
 }
