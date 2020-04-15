@@ -12,8 +12,6 @@
 - Paper disproves Spock 
 - Spock vaporizes Rock  
 
-- - - -
-
 ## How to play
 1. Run the application
 2. Enter `1` to play with another human or `2` to play against the computer
@@ -21,4 +19,4 @@
 
 - - - -
 
-### Have fun! :zap:
+Have fun! :zap:
